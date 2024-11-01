@@ -14,7 +14,7 @@ import Util
 
 iconos= ["./iconos/grafica.png",
          "./iconos/datos.png"]
-textosBotones = ["Grafica Cambio vs Fecha","Datos Estadísticos"]
+textosBotones = ["Gráfica Cambio vs Fecha","Datos Estadísticos"]
 
 df = None
 
